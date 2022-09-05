@@ -1,0 +1,15 @@
+.encabezado {
+    @apply h-xl flex justify-between shadow bg-white;      
+}
+
+.logo {
+    @apply flex items-center pl-4;
+}
+
+.vinculo {
+    @apply flex items-center h-xl px-4 hover:bg-gray-200;
+}
+
+.app {
+    @apply text-lg font-semibold text-gray-900 uppercase
+}
